@@ -4,11 +4,11 @@ This is a small repository showing a very minimal implementation of the FPGA in 
 Using `make` command in the current directory builds the FPGA using Vivado (added to path), sets the ports and a minimal Zinq7 unit.
 
 ## Usage:
-`git clone https://github.com/XavierAudier/Redpitaya_Minimal`
-
-`cd Redpitaya_Minimal`
-
-`make`
+```
+git clone https://github.com/XavierAudier/Redpitaya_Minimal
+cd Redpitaya_Minimal
+make
+```
 
 ## Very usefull resources to go further :
 - [The Redpitaya Github](https://github.com/RedPitaya/RedPitaya)
