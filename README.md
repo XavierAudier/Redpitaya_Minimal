@@ -5,7 +5,9 @@ Using `make` command in the current directory builds the FPGA using Vivado (adde
 
 ## Usage:
 `git clone https://github.com/XavierAudier/Redpitaya_Minimal`
+
 `cd Redpitaya_Minimal`
+
 `make`
 
 ## Very usefull resources to go further :
